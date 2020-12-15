@@ -1,5 +1,7 @@
 # bcrs-shared-components
 
+![Lifecycle](https://img.shields.io/badge/Lifecycle-Stable-97ca00)
+
 See https://github.com/bcgov/entity/blob/master/rfcs/rfc-shared-components.md.
 
 How to publish new or upgraded component to npm?
