@@ -5,7 +5,6 @@
     "src/components/*",
     "src/enums",
     "src/interfaces",
-    "src/mixins",
     "src/modules/*"
   ],
   "command": {
